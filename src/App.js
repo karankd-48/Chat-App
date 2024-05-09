@@ -17,6 +17,7 @@ function App() {
         >
           Learn React With Kd
         </a>
+        <h2>Hii Karan How Are you</h2>
       </header>
     </div>
   );
