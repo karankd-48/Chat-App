@@ -2,9 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-   test =()=>{
-    console.log("checking changes");
-   }
   return (
     <div className="App">
       <header className="App-header">
